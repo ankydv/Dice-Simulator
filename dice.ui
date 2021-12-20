@@ -10,8 +10,19 @@
     <height>600</height>
    </rect>
   </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
   <property name="windowTitle">
    <string>DICE SIMULATOR</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>icon1.png</normaloff>
+    <normalon>icon1.png</normalon>icon1.png</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QPushButton" name="pushButton">
@@ -22,6 +33,12 @@
       <width>240</width>
       <height>60</height>
      </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
     </property>
     <property name="font">
      <font>
@@ -37,11 +54,17 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>270</x>
+      <x>346</x>
       <y>120</y>
       <width>107</width>
       <height>107</height>
      </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
     </property>
     <property name="text">
      <string/>
@@ -74,10 +97,22 @@
     <property name="title">
      <string>Menu</string>
     </property>
+    <addaction name="actionVisit_Github_Repository"/>
+    <addaction name="actionAbout"/>
    </widget>
    <addaction name="menuMenu"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionVisit_Github_Repository">
+   <property name="text">
+    <string>Visit Github Repository</string>
+   </property>
+  </action>
+  <action name="actionAbout">
+   <property name="text">
+    <string>About</string>
+   </property>
+  </action>
  </widget>
  <resources/>
  <connections/>
