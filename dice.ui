@@ -26,7 +26,7 @@
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QVBoxLayout" name="verticalLayout">
-    <item>
+    <item alignment="Qt::AlignHCenter|Qt::AlignVCenter">
      <widget class="QLabel" name="label">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
@@ -39,7 +39,7 @@
       </property>
      </widget>
     </item>
-    <item>
+    <item alignment="Qt::AlignBottom">
      <widget class="QPushButton" name="pushButton">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
@@ -54,11 +54,11 @@
        </font>
       </property>
       <property name="text">
-       <string>ROLL</string>
+       <string>ROLL A DICE</string>
       </property>
      </widget>
     </item>
-    <item>
+    <item alignment="Qt::AlignBottom">
      <widget class="QLabel" name="label_2">
       <property name="text">
        <string>TEAM : ANKIT YADAV, ANIRBAN MISHRA,ARKHOPROVO SARKAR, SUMAN HALDER, RITESH SAHA, SAQUIB SHAHID</string>
