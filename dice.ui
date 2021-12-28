@@ -58,10 +58,10 @@
       </property>
      </widget>
     </item>
-    <item alignment="Qt::AlignBottom">
+    <item alignment="Qt::AlignHCenter|Qt::AlignBottom">
      <widget class="QLabel" name="label_2">
       <property name="text">
-       <string>TEAM : ANKIT YADAV, ANIRBAN MISHRA,ARKHOPROVO SARKAR, SUMAN HALDER, RITESH SAHA, SAQUIB SHAHID</string>
+       <string>Under MIT License</string>
       </property>
      </widget>
     </item>
@@ -82,6 +82,7 @@
     </property>
     <addaction name="actionVisit_Github_Repository"/>
     <addaction name="actionAbout"/>
+    <addaction name="fulls"/>
    </widget>
    <addaction name="menuMenu"/>
   </widget>
@@ -94,6 +95,11 @@
   <action name="actionAbout">
    <property name="text">
     <string>About</string>
+   </property>
+  </action>
+  <action name="fulls">
+   <property name="text">
+    <string>Enter Full-Screen</string>
    </property>
   </action>
  </widget>
