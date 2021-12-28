@@ -5,8 +5,8 @@ A GUI to simulate 6 faced dice using PyQt5.
 
 ## Screenshots
 
-![App Screenshot](https://user-images.githubusercontent.com/54206927/147402880-8080d22b-aada-4614-a10c-62b3d687e812.png)
-![App Screenshot](https://user-images.githubusercontent.com/54206927/147402884-0091c1a3-00af-4d4e-bf9e-cfaae3bb2d85.png)
+![App Screenshots](https://user-images.githubusercontent.com/54206927/147590493-4e9f4503-9c3d-4c00-b92d-40d301c48446.png)
+![App Screenshots](https://user-images.githubusercontent.com/54206927/147590574-9a813ebf-f91a-458b-8770-39b36242f9ac.png)
 ![About](https://user-images.githubusercontent.com/54206927/147586749-bc6f5a49-668b-4e42-baed-cf3ac5d395ff.png)
 
 
