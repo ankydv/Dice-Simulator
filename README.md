@@ -3,6 +3,11 @@
 
 A GUI to simulate 6 faced dice using PyQt5. 
 
+## Screenshots
+
+![App Screenshot](https://user-images.githubusercontent.com/54206927/147402880-8080d22b-aada-4614-a10c-62b3d687e812.png)
+![App Screenshot](https://user-images.githubusercontent.com/54206927/147402884-0091c1a3-00af-4d4e-bf9e-cfaae3bb2d85.png)
+
 
 ## For installing dependencies
 
@@ -40,8 +45,6 @@ You'll get the random output between 1-6!!
 
 
 ## License
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
