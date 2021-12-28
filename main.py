@@ -22,7 +22,7 @@ class UI(QMainWindow):
         self.ui.setupUi(self.window)
         self.window.show()
     def roll(self):
-        arr=["1.png","2.png","3.png","4.png","5.png","6.png"]
+        arr=["Resources/Images/1.png","Resources/Images/2.png","Resources/Images/3.png","Resources/Images/4.png","Resources/Images/5.png","Resources/Images/6.png"]
         q=QtGui.QPixmap(random.choice(arr))
         self.label.setPixmap(q)
     
