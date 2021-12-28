@@ -31,6 +31,10 @@ To run this project "Dice-Simulator"
 ```bash
   cd Dice-Simulator
 ```
+
+```bash
+  python main.py
+```
 ## Demo
 
 Click on the button "Roll"!
