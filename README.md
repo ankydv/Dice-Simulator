@@ -11,7 +11,7 @@ A GUI to simulate 6 faced dice using PyQt5.
 
 
 
-## For installing dependencies
+## For installing dependencie
 
 For installing dependencies of this project "Dice-Simulator"
 
